@@ -1,0 +1,14 @@
+.user-box {
+  width: 50%;
+  padding: .5rem;
+  margin-bottom: .5rem;
+  outline: 1px solid darkorange;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  padding: 6px;
+  background-color: steelblue;
+}
